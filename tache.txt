@@ -1,0 +1,7 @@
+1 create components carsSlice and clientsSlice : done
+2 create App.js : done
+3 create store.js : done
+4 edit App.js : done
+5 edit App.css : on hold
+6 install @reduxjs/toolkit and react-redux : done
+7 connect store to app (Provider in index.js) : done
