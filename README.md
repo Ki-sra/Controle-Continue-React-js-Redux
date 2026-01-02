@@ -110,15 +110,3 @@ my-app/
   package.json
 ```
 
----
-
-## Notes & possible next steps ✨
-
-- This is intentionally beginner-level code: small slices, minimal validation, and a single-file UI for simplicity.
-- If you want, I can:
-  - Add unit tests for slices, or
-  - Disable buttons when actions are not allowed, or
-  - Export an HTML page to PDF (print to PDF) to replace or accompany the original `public/CC3-ISTA-DEVOWF201.pdf`.
-
----
-
