@@ -122,4 +122,3 @@ my-app/
 
 ---
 
-If you want changes to the README text or more detailed comments in specific files, tell me which part to expand and I will update it. ✅
